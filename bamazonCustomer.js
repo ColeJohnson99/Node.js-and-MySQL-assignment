@@ -19,7 +19,7 @@ var connection = mysql.createConnection({
 
 connection.connect(function (err) {
     if (err) throw err;
-    console.log("\nWelcome to Bamazon! Take a look at our products for sale below!\n");
+    console.log("\nWelcome to Bamazon! Take a look at our products for sale!\n");
    
     allProducts();
 });
