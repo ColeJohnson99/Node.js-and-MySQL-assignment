@@ -13,4 +13,8 @@ Technology/Software used:
 
     -Created product database using MySQL workbench.
 
-    -Using Node and JavaScript, created application to import and display database information in the users console
+    -Using Node and JavaScript, created application to import and display database information in the users console.
+
+    -Installed npm module "console.table", allowing you to log a table of database content in the console.
+
+    -Inquirer used to create in-console prompts.
