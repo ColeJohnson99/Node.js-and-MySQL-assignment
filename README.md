@@ -18,3 +18,6 @@ Technology/Software used:
     -Installed npm module "console.table", allowing you to log a table of database content in the console.
 
     -Inquirer used to create in-console prompts.
+
+    -Included in Repo is bamazon-sql-setup.sql to show code used in workbench to format database table.
+
